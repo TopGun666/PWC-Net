@@ -1,1 +1,1 @@
-python -B script_pwc.py './data/0000000000.png' './data/0000000001.png' './tmp/0000000000.flo'
+python -B script_pwc.py './data/frame_0010.png' './data/frame_0011.png' './tmp/frame_0010.flo'
