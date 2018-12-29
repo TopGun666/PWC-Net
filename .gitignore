@@ -3,7 +3,10 @@
 result/
 *.pyc
 ._*
-.egg-info/
-.o
+*.egg-info/
+*.o
 *.flo
 PyTorch/tem/*.flo
+/build/
+PyTorch/external_packages/correlation-pytorch-master/correlation-pytorch/build/
+PyTorch/external_packages/correlation-pytorch-master/correlation-pytorch/dist/
