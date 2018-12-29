@@ -1,1 +1,9 @@
 .idea/*
+.DS_*
+result/
+*.pyc
+._*
+.egg-info/
+.o
+*.flo
+PyTorch/tem/*.flo
